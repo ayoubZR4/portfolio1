@@ -1,0 +1,20 @@
+main{
+    background-image: url(../images/c.jpg);
+}
+img{
+    border-radius: 100px;
+    width: 15%;
+}
+h1{
+    font-size: 2em;
+    text-align: center;
+    font-family: sans-serif;
+}
+h2{
+font-family: sans-serif;
+
+}
+p{
+    font-family: sans-serif;
+
+}
